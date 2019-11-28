@@ -5,4 +5,7 @@
 build
 
 # Ignore Intellj
-.idea/*
+.idea
+
+# Ignore out
+out
